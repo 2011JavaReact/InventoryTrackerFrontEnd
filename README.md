@@ -1,6 +1,8 @@
 # Inventory Tracker
 This is a user interface for the Inventory Tracker API. It allows the user to view and add inventory or products and add new users. 
 
+This project was made with React and Bootstrap 4.
+
 # How To Navigate the UI
 Enter a valid username and password. You'll then be redirected to the page that shows you a table of the inventory. 
 
