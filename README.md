@@ -11,7 +11,6 @@ or add inventory, products, or users through a form present on the page.
 
 # Required Downloads
 1. node.js
-2. npm
 
 # Setup
 Run the following commands in a command line interface for development mode:
