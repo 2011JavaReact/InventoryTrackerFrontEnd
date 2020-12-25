@@ -1,7 +1,7 @@
 # Inventory Tracker
 This is a user interface for the Inventory Tracker API. It allows the user to view and add inventory or products and add new users. 
 
-* Technologies Used
+# Technologies Used
 1. React
 2. HTML/CSS
 3. Javascript
