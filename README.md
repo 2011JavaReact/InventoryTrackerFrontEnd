@@ -11,7 +11,7 @@ This is a user interface for the Inventory Tracker API. It allows the user to vi
 # How To Navigate the UI
 Enter a valid username and password on the landing page. You'll then be redirected to the page that shows you a table of the inventory. 
 
-You can also naviagate to other pages via the navbar at the top of the page that will let you view inventory or products,
+You can also navigate to other pages via the navbar at the top of the page that will let you view inventory or products,
 or add inventory, products, or users through a form present on the page.
 
 # Required Downloads
